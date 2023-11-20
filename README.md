@@ -1,5 +1,5 @@
 ### Hi there 👋
-Selamat datang di profil GitHub saya! 👋 Saya Muhamad Akhirul Sidik, seorang mahasiswa semester 7 di Universitas Kuningan.
+Selamat datang di profil GitHub saya! 👋 Saya Muhamad Akhirul Sidik
 
 <!--
 **rulrul18/rulrul18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
